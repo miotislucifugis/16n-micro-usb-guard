@@ -1,5 +1,8 @@
 # 16n-micro-usb-guard
-A protective strain-relief micro usb spacer block for the AtoVprojects 16n.
+
+  A protective strain-relief micro usb spacer block for the AtoVprojects 16n.
+
+
 Fits on top of the teensy's usb jack and is sandwiched in place by the top panel to prevent any upwards strain the could "peel" the micro usb jack off the board.   
 Whipped this up on tinkercad, mostly by eye, so its a little crude...(please dont judge) but it fits perfectly on my teensy LC. You may have different results based on your printer, slicer settings, etc so be sure to test fit before tightning any screws/nuts!  By the numbers, it sits just a little too high at about 10.40 mm, (standoffs and jacks are 10mm,) but in practice it is perfect(on mine.)  I had some gaps with shorter versions.  you may need to file/sand down the top an little on yours.  
 
