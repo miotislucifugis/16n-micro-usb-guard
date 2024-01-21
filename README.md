@@ -7,6 +7,8 @@ The teensy 3.2 version is basically the same but with a lttle notch for the LED 
 
 ![16n micro usb guard teensy LC](https://github.com/miotislucifugis/16n-micro-usb-guard/assets/20709580/c496249d-d109-4172-a9a1-061ba6e7851e)
 
+![IMG_5751](https://github.com/miotislucifugis/16n-micro-usb-guard/assets/20709580/1968a544-666a-4606-9a62-d8ee5854690a)
+
 ![IMG_5752](https://github.com/miotislucifugis/16n-micro-usb-guard/assets/20709580/85ca905d-814f-4d3a-aff9-97ff70d6a6be)
 
 
